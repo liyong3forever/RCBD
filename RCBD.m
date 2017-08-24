@@ -2,7 +2,7 @@
 %Author: 
 %       Yong Li
 %Email:
-%       yong.li@nlpr.ia.ac.cn
+%       liyongforevercas@163.com
 %Department:
 %       National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
 %
@@ -17,10 +17,10 @@
 %        D -- dictionary initialized with the training samples
 %        param-- a struct contains weights of different items 
 %Reference:
-    %Y. Li, J. Liu, H. Lu, and S. Ma, ¡°Learning Robust Face Representation With Classwise Block-Diagonal Structure¡± 
-    %Information Forensics and Security, IEEE Transactions on, 2014, pp.2051¨C2062.
+    %Y. Li, J. Liu, H. Lu, and S. Ma, Â¡Â°Learning Robust Face Representation With Classwise Block-Diagonal StructureÂ¡Â± 
+    %Information Forensics and Security, IEEE Transactions on, 2014, pp.2051Â¨C2062.
     
-% RCBD Copyright 2014, Yong Li (yong.li@nlpr.ia.ac.cn)
+% RCBD Copyright 2014, Yong Li (liyongforevercas@163.com)
 % RCBD is free software: you can redistribute it and/or modify
 % it under the terms of the GNU General Public License as published by
 % the Free Software Foundation, either version 3 of the License, or
